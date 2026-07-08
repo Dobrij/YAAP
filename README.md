@@ -1,2 +1,2 @@
 # YAAP
-YAAP releases for personal use (lunaa)
+Random lunaa builds for personal use (not only YAAP)
